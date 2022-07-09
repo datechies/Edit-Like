@@ -8,7 +8,7 @@
 
 
 ## <b>PRIVACY POLICY</b>
-This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
+This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other informations if anyone decided to use the App.
 
 ### <b>What personal information do we collect from the people using our app?</b>
 We do not collect any information from users of our app.
@@ -31,14 +31,14 @@ I have no control over and assume no responsibility for the content, privacy pol
 We do not sell, trade, or otherwise transfer to outside parties any information.
 
 ### <b>Advertising</b>
-We haven't included google adsense, etc.
+We haven't included google adsense, etc, yet.
 
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
 
-###<b>Contact Us<b>
+### <b>Contact Us<b>
 If there are any questions regarding this privacy policy, you may contact us at below email address.
 maildatechies@gmail.com
 
-## LAST UPDATED ON 2022-07-09
+#### LAST UPDATED ON 2022-07-09
 
