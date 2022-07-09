@@ -1,4 +1,14 @@
-# <b>EDIT LIKE</b>
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<head>
+    <meta charset="UTF-8">
+
+<title> Edit Like | A Quick video editor </title>
+</head>
+</html>
+
+
 
 ## <b>PRIVACY POLICY</b>
 
