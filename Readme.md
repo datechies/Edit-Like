@@ -1,7 +1,11 @@
 <html lang="en-US"> 
 <head>
     <meta charset="UTF-8">
-<title> Edit Like | A Quick video editor </title>
+<title> Edit Like|A quick and simple video editor</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Edit Like" />
+<meta name="description" content="A quick and simple video editor" />
+<meta property="og:description" content="Experimental IDE based on ASTs produced by compilers" />
 </head>
 </html>
 
