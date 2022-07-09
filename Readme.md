@@ -1,4 +1,6 @@
-# <b>EDIT LIKE APP PRIVACY POLICY</b>
+# <b>EDIT LIKE</b>
+
+## <b>PRIVACY POLICY</b>
 
 ### <b>What personal information do we collect from the people using our app?</b>
 We do not collect any information from users of our app.
