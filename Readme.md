@@ -32,3 +32,13 @@ We do not sell, trade, or otherwise transfer to outside parties any information.
 
 ### <b>Advertising</b>
 We haven't included google adsense, etc.
+
+### <b>Changes to This Privacy Policy<b>
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
+
+###<b>Contact Us<b>
+If there are any questions regarding this privacy policy, you may contact us at below email address.
+maildatechies@gmail.com
+
+## LAST UPDATED ON 2022-07-09
+
