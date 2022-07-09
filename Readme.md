@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
 <title> Edit Like|A quick and simple video editor</title>
-<description> A quick and simple video editor</description/>
 </head>
 </html>
 
