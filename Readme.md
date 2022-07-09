@@ -5,7 +5,12 @@
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="Edit Like" />
 <meta name="description" content="A quick and simple video editor" />
-<meta property="og:description" content="Experimental IDE based on ASTs produced by compilers" />
+<meta property="og:description" content="A quick and simple video editor" />
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Edit Like</h1>
+      <h2 class="project-tagline">A quick and simple video Editor</h2>     
+    </header>
 </head>
 </html>
 
