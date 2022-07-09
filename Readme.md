@@ -5,9 +5,8 @@
 </head>
 </html>
 
-
-
 ## <b>PRIVACY POLICY</b>
+Edit Like App is developed by Da Techies <br>
 This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other informations if anyone decided to use the App.
 
 ### <b>What personal information do we collect from the people using our app?</b>
@@ -29,6 +28,7 @@ I have no control over and assume no responsibility for the content, privacy pol
 
 ### <b>Third-party disclosure</b>
 We do not sell, trade, or otherwise transfer to outside parties any information.
+We donot use third party services however we use third party libraries/dependencies for better functioning of the app.
 
 ### <b>Advertising</b>
 We haven't included google adsense, etc, yet.
@@ -40,5 +40,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If there are any questions regarding this privacy policy, you may contact us at below email address.
 maildatechies@gmail.com
 
-#### LAST UPDATED ON 2022-07-09
+LAST UPDATED ON 2022-07-09
 
