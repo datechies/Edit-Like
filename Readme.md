@@ -7,7 +7,7 @@
 
 ## <b>PRIVACY POLICY</b>
 Edit Like App is developed by Da Techies <br>
-This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other informations if anyone decided to use the App.
+This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other related informations if anyone decided to use the App.
 
 ### <b>What personal information do we collect from the people using our app?</b>
 We do not collect any information from users of our app.
