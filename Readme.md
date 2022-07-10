@@ -22,7 +22,7 @@ We do not use an SSL certificate. <br>
 We never ask for personal or private information like names, email addresses, or credit card numbers.
 
 ### <b>Link to other sites<b>
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. <br>
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. <br><br>
 Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. <br><br>
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
@@ -38,10 +38,10 @@ We haven't included google adsense or any type of ads yet. If we include, we may
 
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
+<br><br>
+LAST UPDATED ON 2022-07-09
 
 ### <b>Contact Us<b>
 If there are any questions regarding this privacy policy, you may contact us at below email address.
 maildatechies@gmail.com
-
-LAST UPDATED ON 2022-07-09
 
