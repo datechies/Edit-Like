@@ -42,6 +42,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 LAST UPDATED ON 2022-07-09
 
 ### <b>Contact Us<b>
-If there are any questions regarding this privacy policy, you may contact us at below email address.
+If there are any questions regarding this privacy policy, you may contact us at below email address.<br>
 maildatechies@gmail.com
 
