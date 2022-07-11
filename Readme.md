@@ -31,7 +31,6 @@ We use third party libraries/dependencies to facilate better functioning of the 
 
 ### <b>Third-party disclosure</b>
 We do not sell, trade, or otherwise transfer to outside parties any information.
-We donot use third party services.
 
 ### <b>Advertising</b>
 We haven't included google adsense or any type of ads yet. If we include, we may change the policy.
