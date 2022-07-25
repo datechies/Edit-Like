@@ -27,13 +27,11 @@ Note that these external sites are not operated by us. Therefore, I strongly adv
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### <b>Third-party services
-We use third party libraries/dependencies to facilate better functioning of the app.
-
-### <b>Third-party disclosure</b>
-We do not sell, trade, or otherwise transfer to outside parties any information.
+To serve the function of the application, we use the service provided by a third party. This service may gather user's behavioral habits to improve its quality. We do not control this and do not take responsibility for it. If you are not comfortable with this, please do not use this software.
 
 ### <b>Advertising</b>
 We haven't included google adsense or any type of ads yet. If we include, we may change the policy.
+https://unity3d.com/legal/privacy-policy
 
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
