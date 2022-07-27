@@ -37,7 +37,7 @@ Link to privacy policy of third party service providers used by the app: <br>
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
 <br><br>
-LAST UPDATED ON 2022-07-09
+LAST UPDATED ON 2022-07-27
 
 ### <b>Contact Us<b>
 If there are any questions regarding this privacy policy, you may contact us at below email address.<br>
