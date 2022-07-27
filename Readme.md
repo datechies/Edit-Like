@@ -22,13 +22,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. <br><br>
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-### <b>What personal information do we collect from the people using our app and what Third-party services and Providers we use
+### <b>What personal information do we collect and what Third-party services and Providers we use
 We do not collect any information from users of our app.
 However we use third party services and service providers which may collect user's data for their improvements.
 - #### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
 Link to privacy policy of third party service providers used by the app: <br>
- - <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
+<a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
 
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
