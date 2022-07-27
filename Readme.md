@@ -9,9 +9,6 @@
 Edit Like App is developed by Da Techies <br>
 This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other related informations if anyone decided to use the App.
 
-### <b>What personal information do we collect from the people using our app?</b>
-We do not collect any information from users of our app.
-
 ### <b>How do we use videos or audios created in app?</b>
 We do not use or collect any video or audio created in app
 
@@ -19,14 +16,15 @@ We do not use or collect any video or audio created in app
 We never ask for credit card numbers. <br>
 We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
-We never ask for personal or private information like names, email addresses, or credit card numbers.
 
 ### <b>Link to other sites<b>
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. <br><br>
 Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. <br><br>
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-### <b>Third-party services and Providers
+### <b>What personal information do we collect from the people using our app and what Third-party services and Providers we use
+We do not collect any information from users of our app.
+However we use third party services and service providers which may collect user's data for their improvements.
 - #### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
 Link to privacy policy of third party service providers used by the app: <br>
