@@ -24,7 +24,7 @@ I have no control over and assume no responsibility for the content, privacy pol
 
 ### <b>What personal information do we collect and what Third-party services and Providers we use
 We do not collect any information from users of our app.
-However we use third party services and service providers which may collect user's data for their improvements.
+However we use third party services and service providers which may collect for their better service and improvements.
 - #### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
 Link to privacy policy of third party service providers used by the app: <br>
