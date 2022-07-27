@@ -31,8 +31,8 @@ To serve the function of the application, we use the service provided by a third
 
 ### <b>Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
-Link to privacy policy of third party service providers used by the app:
-<a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
+Link to privacy policy of third party service providers used by the app: <br>
+ - <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
 
 ### <b>Changes to This Privacy Policy<b>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
