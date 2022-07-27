@@ -13,7 +13,7 @@ This page is used to inform visitors regarding the privacy policies with the col
 We do not collect any information from users of our app.
 
 ### <b>How do we use videos or audios created in app?</b>
-We do not use any video or audio created in app
+We do not use or collect any video or audio created in app
 
 ### <b>How do we protect your information?</b>
 We never ask for credit card numbers. <br>
