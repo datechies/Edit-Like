@@ -27,7 +27,7 @@ We do not collect any information from users of our app.
 However we use third party services and service providers which may collect for their better service and improvements.
 - #### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
-Link to privacy policy of third party service providers used by the app: <br>
+Link to privacy policy of third party services and learn what types of data they collect: <br>
 <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
 
 ### <b>Changes to This Privacy Policy<b>
