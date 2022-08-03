@@ -23,8 +23,7 @@ Note that these external sites are not operated by us. Therefore, I strongly adv
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### <b>What personal information do we collect and what Third-party services and Providers we use
-We do not collect any information from users of our app.
-However we use third party services and service providers which may collect for their better service and improvements.
+We use third party services and service providers which may collect for their better service and improvements.
 - #### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
 Link to privacy policy of third party services and learn what types of data they collect: <br>
